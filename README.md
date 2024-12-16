@@ -12,27 +12,7 @@ SpaceX revolutionized space exploration by reusing its Falcon 9 rocket's first s
 
 1. **Understand the data**: Analyze the historical launch data of Falcon 9 rockets.  
 2. **Build predictive models**: Predict the success of first-stage landings using supervised machine learning techniques.  
-3. **Evaluate cost implications**: Use prediction outcomes to assess the potential cost of launches.  
-
----
-
-## Repository Contents  
-
-### Folder Structure  
-
-- **`data/`**: Contains the datasets used in this project.  
-  - `spacex_launch_data.csv`: Cleaned dataset with information about Falcon 9 launches, including date, payload, mission outcomes, and landing success.  
-  - `data_cleaning_script.ipynb`: Script for preprocessing raw data.  
-
-- **`notebooks/`**: Jupyter notebooks for exploratory data analysis and model building.  
-  - `EDA.ipynb`: Exploratory Data Analysis notebook for understanding trends and patterns in the data.  
-  - `ML_Modeling.ipynb`: Machine learning model implementation to predict landing success.  
-
-- **`results/`**: Contains outputs such as plots, charts, and model evaluation metrics.  
-  - `accuracy_metrics.csv`: Performance metrics for the machine learning models.  
-  - `visualizations/`: Folder for figures and graphs used in the analysis.  
-
-- **`README.md`**: Project overview and instructions for usage.  
+3. **Evaluate cost implications**: Use prediction outcomes to assess the potential cost of launches.   
 
 ---
 
